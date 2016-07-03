@@ -1,0 +1,3 @@
+I love AJOOP. We are using foo.txt to demonstrate the various methods or read
+and write to files in python. I hope after this example you will under the 
+concept behind open, seek, read, tell, close methods.

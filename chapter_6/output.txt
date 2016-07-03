@@ -1,0 +1,12 @@
+changing directory to Desktop
+
+Getting current working directory:  /home/deepanshu/Desktop
+
+Joining path: /home/deepanshu/Desktop/foo.txt 
+Example of expanduser:  /home/deepanshu
+
+Printing 5 files from my Desktop: 
+spoj.java~ etherpad update~ header2.cpp~ testp.c~ KnapSackExample.java~
+Creating Directory Daniel
+Now changing to Daniel directory
+Now current working directory is:  /home/deepanshu/Desktop/Daniel
