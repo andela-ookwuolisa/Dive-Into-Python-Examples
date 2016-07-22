@@ -20,7 +20,7 @@ print 'after seek(0) file position is: {0}'.format(f.tell())
 print f.read(14)  # read 12 bytes from file
 print 'Now file position is {0}'.format(f.tell())
 
-print 'Now trying to read whole file from the currect position'
+print 'Now trying to read whole file from the correct position'
 print f.read()
 
 # Remeber since we have read entire file. More try to read from file will
