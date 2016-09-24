@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<bank>
+    <account>
+        <number>13443535355</number>
+        <name>Adam</name>
+        <balance>$254252</balance>
+    </account>
+    <account>
+        <number>13443422545</number>
+        <name>Alice</name>
+        <balance>$2363</balance>
+    </account>
+</bank>
